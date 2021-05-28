@@ -23,4 +23,4 @@ We have come up with a solution.
                                      
                                      
                                      
-   ![HathGadi](/hathgadi_nav_circle.png)
+   ![HathGadi](Images/hathgadi_nav_circle.png)
