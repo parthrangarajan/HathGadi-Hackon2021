@@ -1,7 +1,7 @@
 # HathGadi-Hackon2021
 This is our submission for Hackon2021.
 # HathGadi # 
-We all know about the economic hardships India is going through. Lockdown has forced all shops and businesses to halt for a long time now. This has lead to a lot of them closing down. Titles the "Retail Lockdown", the pandemic has caused over 7 lakh small shops to shut down according to The Econimic Times.\
+We all know about the economic hardships India is going through. Lockdown has forced all shops and businesses to halt for a long time now. This has lead to a lot of them closing down. Titled the "Retail Lockdown", the pandemic has caused over 7 lakh small shops to shut down according to The Econimic Times.\
 To read more visit [this article]( https://m.economictimes.com/industry/cons-products/fmcg/over-7-lakh-small-stores-may-have-shut-shop-due-to-lockdown/articleshow/76096517.cms) .
 
 We feel most affected people are local vendors. **Why?**\
